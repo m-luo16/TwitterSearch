@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">VouchrTwitter</string>
+    <string name="hello">Hello</string>
+    <string name="Search">Search</string>
+    <string name="consumerKey">Mvhm37TRSCX9hAB73QAUXbnSU</string>
+    <string name="consumerSecret">cuQX0QajdfPgE2B2RttD97iCwWkotURhwr96XkF8Uhiq26W7Oh</string>
+    <string name="username"/>
+    <string name="content" />
+    <string name="screenName" />
+</resources>
